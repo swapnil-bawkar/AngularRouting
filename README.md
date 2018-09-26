@@ -1,2 +1,0 @@
-# AngularRouting
-Created with CodeSandbox
